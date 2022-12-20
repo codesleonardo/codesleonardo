@@ -1,13 +1,13 @@
-### Hi, there 👋
+### Hi, welcome! 👋
 ### I'm Leonardo Ferraz
 
-🤖 Desenvolvedor Web
+🤖 Front End Developer
 
-🤩 Tecnologia é o que me faz brilhar os olhos
+🤩 Technology is what makes my eyes shine
 
-💻 Apaixonado por linhas de código
+💻 Passionate about lines of code
 
-👨🏼‍🎓 Estudande da <a href="https://practicum.com/">Practicum</a>
+👨🏼‍🎓 Student of <a href="https://practicum.com/">Practicum</a>
 
 <div>
   <a href="https://github.com/codesleonardo">
