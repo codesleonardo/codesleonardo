@@ -1,7 +1,7 @@
 ### Hi, welcome! 👋
 ### I'm Leonardo Ferraz
 
-🤖 Front End Developer
+🤖 Full Stack Developer
 
 🤩 Technology is what makes my eyes shine
 
