@@ -1,11 +1,9 @@
-### Hi, welcome! 👋
-### I'm Leonardo Ferraz
+# Hi there 👋 LEONARDO here!
 
-🤖 Full Stack Developer
-
-🤩 Technology is what makes my eyes shine
-
-💻 Passionate about lines of code
+- I'm a developer experienced in full stack web programming using mainly HTML5, CSS3 and JavaScript.
+- Application of UX/UI concepts, responsive design, semantics and accessibility.
+- Frameworks and tools used: (front-end) React with TypeScript and Bootstrap | (back-end) JavaScript with Node.js and Python with Django.
+- My professional profile: [Linkedin](https://www.linkedin.com/in/leonardocodes/)
 
 <div>
   <a href="https://github.com/codesleonardo">
@@ -23,16 +21,27 @@
 ### ⚒️ Skills
 <div>
   <!--- https://skillicons.dev -->
-  <a href="https://html.com/" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
-  <a href="https://pt-br.reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a>  
-  <a href="https://wordpress.com/" target="_blank"><img src="https://skillicons.dev/icons?i=wordpress" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
-  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" />  
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=django" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=eclipse" />  
+  <img src="https://skillicons.dev/icons?i=php" />
+  <img src="https://skillicons.dev/icons?i=wordpress" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=photoshop" />
 </div>
+  
+ ## 📫 How to reach me: [Email](mailto:leonardo@leonardocodes.com)
 
 ### 📈 Views
 
